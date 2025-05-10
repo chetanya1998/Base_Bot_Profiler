@@ -32,7 +32,7 @@ Bad bots inflate ad spend, scrape competitive data, skew analytics, and execute 
 | **Dashboard** | Streamlit (or CLI fallback) | Live charts: traffic counters, bot-vs-human trend line, heat-map of cluster IDs, table of blocked IPs. |
 
 ---
-
+```bash
 ## Folder Structure
 base_bot_profiler/
 │
@@ -59,7 +59,7 @@ base_bot_profiler/
 │
 ├─ requirements.txt
 └─ README.md ← (you are here)
-
+```
 
 ---
 
