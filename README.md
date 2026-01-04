@@ -9,12 +9,6 @@ The project ships with a dummy FastAPI server, a traffic-simulator that generate
 2. [Project Highlights](#project-highlights)
 3. [Folder Structure](#folder-structure)
 4. [Quick Start](#quick-start)
-5. [Detailed Step-by-Step Guide](#detailed-step-by-step-guide)
-6. [How the Pipeline Works](#how-the-pipeline-works)
-7. [Significance Across Sectors](#significance-across-sectors)
-8. [Roadmap](#roadmap)
-9. [Contributing](#contributing) & [License](#license)
-
 ---
 
 ## Why Bot Profiling Matters
